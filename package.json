@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yazeedb94.github.io/TheWorld-of-vision-for-eyes/",
+  "homepage": "https://yazeedb94.github.io/-TheWorld-of-vision-for-eyes/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
